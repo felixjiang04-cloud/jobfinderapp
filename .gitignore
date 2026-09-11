@@ -1,0 +1,12 @@
+# Installers and other large binaries
+*.exe
+*.msi
+*.zip
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+Thumbs.db
+.DS_Store
